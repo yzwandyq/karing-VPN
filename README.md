@@ -74,7 +74,7 @@
 - IOS >= 15
 - MacOS >= 12
 
-## Install
+## 安装下载Install
 - **IOS/MacOS AppStore**: (Search Keywords: karing vpn)
   - https://apps.apple.com/us/app/karing/id6472431552
 - **IOS/MacOS TestFlight**:
